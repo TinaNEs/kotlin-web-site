@@ -84,7 +84,7 @@ Kotlin User Group or KUG is a community of people and a place to share your prog
  * [Allahabad Kotlin User Group](https://www.facebook.com/Kotlin-Allahabad-User-Group-967463300076405/), India
  * [Astana Java & Kotlin User Group](https://community-z.com/communities/astana-jkug), Kazakhstan
  * [Azerbaijan Kotlin User Group](https://www.facebook.com/groups/395337754167951/), Azerbaijan
- * [Bangladesh Kotlin User Group](https://www.facebook.com/KotlinBangladesh/), Bangladesh
+ * [Bangladesh Kotlin User Group](https://www.facebook.com/groups/bdkug/), Bangladesh
  * [Batam Kotlin User Group](https://t.me/KotlinDevBatam), Indonesia
  * [Bengaluru Kotlin User Group](https://www.facebook.com/KotlinBengaluru/), India
  * [Bengaluru Kotlin 'BlrKotlin' Meetup ](https://www.meetup.com/BlrKotlin/), India
