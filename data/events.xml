@@ -1,6 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <events>
-    <event>
+   <event>
+        <lang>en</lang>
+        <startDate>2021-02-12</startDate>
+        <endDate>2021-02-12</endDate>
+        <location>Nürnberg, Germany</location>
+        <speaker>Enrique López Mañas</speaker>
+        <title>GDG Nuremberg</title>
+        <subject>Kotlin Coroutines for JVM</subject>
+        <url>https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-kotlin-foundations-of-multithreading-and-functional-programming/</url>
+        <description>
+            <![CDATA[
+<p>Enrique will tell us more about the underlying Kotlin Coroutines</p>
+]]>
+        </description>
+   </event>
+
+   <event>
+        <lang>en</lang>
+        <startDate>2021-02-12</startDate>
+        <endDate>2021-02-12</endDate>
+        <location>Nürnberg, Germany</location>
+        <speaker>Nick Skelton</speaker>
+        <title>GDG Nuremberg</title>
+        <subject>Kotlin Flows</subject>
+        <url>https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-kotlin-foundations-of-multithreading-and-functional-programming/</url>
+        <description>
+            <![CDATA[
+<p>Nick will talk about Kotlin Flows</p>
+]]>
+        </description>
+   </event>
+
+   <event>
+        <lang>en</lang>
+        <startDate>2021-02-12</startDate>
+        <endDate>2021-02-12</endDate>
+        <location>Nürnberg, Germany</location>
+        <speaker>Karin-Aleksandra Monoid</speaker>
+        <title>GDG Nuremberg</title>
+        <subject>Hands-on Arrows</subject>
+        <url>https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-kotlin-foundations-of-multithreading-and-functional-programming/</url>
+        <description>
+            <![CDATA[
+<p>WTM Nuremberg presents functional programming advocate for Kotlin Karin-Aleksandra Monoid with her talk on Arrow.kt.</p>
+]]>
+        </description>
+   </event>
+
+   <event>
         <lang>en</lang>
         <startDate>2021-02-10</startDate>
         <endDate>2021-02-10</endDate>
@@ -17,7 +65,7 @@
 <p>In this talk, I’ll create a simple URL shortener with a “standard” stack: Kotlin, JAX-RS and Hazelcast. Then, with the help of Quarkus and GraalVM, I’ll turn this application into a native executable with all Cloud/Container related work has been moved to the build process.</p>
 ]]>
         </description>
-    </event>
+   </event>
 
    <event>
         <lang>en</lang>
