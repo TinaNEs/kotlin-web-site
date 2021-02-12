@@ -2,6 +2,23 @@
 <events>
    <event>
         <lang>en</lang>
+        <startDate>2021-02-25</startDate>
+        <endDate>2021-02-25</endDate>
+        <location>Minneapolis, MN</location>
+        <speaker>Chet Haase</speaker>
+        <title>Twin Cities Kotlin User Group</title>
+        <subject>The State of Kotlin on Android</subject>
+        <url>https://www.meetup.com/Twin-Cities-Kotlin-User-Group/events/276177619/</url>
+        <description>
+            <![CDATA[
+<p>In this session, Chet Haase from the Android developer relations team will give an overview of where things are at with the use of Kotlin on Android.</p>
+<p>This includes information on the parts of Android that are being enhanced for Kotlin developers, the resources for learning and using Kotlin, and the ongoing efforts to improve both the language and Android itself through the use and adoption of Kotlin.</p>
+]]>
+        </description>
+   </event>
+
+   <event>
+        <lang>en</lang>
         <startDate>2021-02-12</startDate>
         <endDate>2021-02-12</endDate>
         <location>Nürnberg, Germany</location>
