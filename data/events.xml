@@ -121,22 +121,6 @@ p>In this talk, we will focus on a prototype tool that lets you browse the docs 
         <lang>en</lang>
         <startDate>2021-02-10</startDate>
         <endDate>2021-02-10</endDate>
-        <location>Stuttgart, Germany</location>
-        <speaker>Andreas Eberle</speaker>
-        <title>Kotlin User Group Stuttgart</title>
-        <subject>Using Apache Kafka with Kotlin and Quarkus</subject>
-        <url>https://www.meetup.com/Kotlin-User-Group-Stuttgart/events/276088421</url>
-        <description>
-            <![CDATA[
-<p>This talk will be an introduction to using Quarkus and Kotlin together with Kafka to create event driven systems.</p>
-]]>
-        </description>
-   </event>
-
-   <event>
-        <lang>en</lang>
-        <startDate>2021-02-10</startDate>
-        <endDate>2021-02-10</endDate>
         <location>Karlsruhe, Germany</location>
         <speaker>Andreas Eberle</speaker>
         <title>Kotlin Karlsruhe User Group</title>
